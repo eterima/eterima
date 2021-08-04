@@ -1,13 +1,18 @@
-### <p align="center">Hi future epilots 👋 </p>
+# <p align="center">Hi future epilots 👋 </p>
 
 
 <p align="center"><img alt="epilot" src="/epilot-flag.svg" width="600"></p>
 
+# <p align="center">We are epilot</p>
+
+## <p align="center">An innovative global scale-up from Cologne. Come build the leading ecosystem for energy ecommerce with us!</p>
+
 
 <p align="center"><img alt="epilot" src="/epilot_gif .gif" width="600"></p>
 
-## <p align="center">Ready for take-off? Hit me up! </p>
+## <p align="center">Ready for take-off 🚀 ? Hit me up✌🏽! </p>
 
+# <p align="center"> Want to learn more about epilot and our engineering team? Check out my pinned repos below 👇 </p>
 
 
 
