@@ -1,4 +1,9 @@
-### Hi there 👋
+### <p align="center">Hi there 👋 </p>
+
+<p align="center"><img alt="epilot" src="/epilot_gif .gif" width="600"></p>
+
+
+
 
 <!--
 **eterima/eterima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
