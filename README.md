@@ -1,6 +1,12 @@
-### <p align="center">Hi there 👋 </p>
+### <p align="center">Hi future epilots 👋 </p>
+
+
+<p align="center"><img alt="epilot" src="/epilot-flag.svg" width="600"></p>
+
 
 <p align="center"><img alt="epilot" src="/epilot_gif .gif" width="600"></p>
+
+## <p align="center">Ready for take-off? Hit me up! </p>
 
 
 
