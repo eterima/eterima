@@ -10,7 +10,17 @@
 
 <p align="center"><img alt="epilot" src="/epilot_gif .gif" width="600"></p>
 
-## <p align="center">Ready for take-off 🚀 ? Hit me up✌🏽! </p>
+## <p align="center">Ready for take-off 🚀 ?</p>
+
+<p align="center"> <a href="https://www.linkedin.com/in/e-terima/">
+         <img alt="eka_the_epilot" src="https://github.com/eterima/eterima/blob/main/eka_.png?raw=true"
+         width=150" height="150"> </a> </p>
+                                
+# <p align="center"> Hit me up✌🏽! </p>
+
+ 
+
+
 
 # <p align="center"> Want to learn more about epilot and our engineering team? Check out my pinned repos below 👇 </p>
 
