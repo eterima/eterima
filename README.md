@@ -12,7 +12,7 @@
 
 # <p align="center">Ready for take-off 🚀 ?</p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/e-terima/">
+<p align="center"> <a href="https://www.linkedin.com/in/eterima/">
          <img alt="eka_the_epilot" src="https://github.com/eterima/eterima/blob/main/eka_.png?raw=true"
          width=150" height="150"> </a> </p>
                                 
