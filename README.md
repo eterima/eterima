@@ -5,7 +5,7 @@
 
 # <p align="center">We are epilot</p>
 
-## <p align="center">An innovative global scale-up from Cologne. Come build the leading ecosystem for energy ecommerce with us!</p>
+## <p align="center">An innovative global scale-up from Cologne. Are you ready to be a technology leader in the SaaS space? Join epilot!</p>
 
 
 <p align="center"><img alt="epilot" src="/epilot_gif .gif" width="600"></p>
