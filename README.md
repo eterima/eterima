@@ -1,7 +1,7 @@
 # <p align="center">Hi future epilots 👋 </p>
 
 
-<p align="center"><img alt="epilot" src="/epilot-flag.svg" width="600"></p>
+<p align="center"><img alt="epilot" src="/epilot_Logo_hell_Blau_zu_dunkel_blau_nur_Icon_RGB.png" width="600"></p>
 
 # <p align="center">We are epilot</p>
 
