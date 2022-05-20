@@ -1,7 +1,7 @@
 # <p align="center">Hi future epilots 👋 </p>
 
 
-<p align="center"><img alt="epilot" src="Design ohne Titel.jpg" width="600"></p>
+<p align="center"><img alt="epilot" src="2.png" width="600"></p>
 
 # <p align="center">We are epilot</p>
 
