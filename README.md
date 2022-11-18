@@ -14,7 +14,7 @@
 
 # <p align="center">Ready for take-off 🚀 ?</p>
 
-<div align="center"> <a href="https://stardev.io/developers/eterima"><img align="center" alt="Check out eterima&apos;s profile on stardev.io" src="https://stardev.io/developers/eterima/badge/languages/global.svg" /></a> </div>
+<div align="center"> <a href="https://stardev.io/developers/eterima"><img alt="Check out eterima's profile on stardev.io" src="https://stardev.io/developers/eterima/badge/languages/locality.svg" /></a> </div>
                                 
                                                                 
 # <p align="center"> <a href="https://www.linkedin.com/in/eterima/">Hit me up✌🏽!</a> </p>
