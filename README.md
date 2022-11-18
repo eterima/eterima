@@ -1,3 +1,4 @@
+
 # <p align="center">Hi future epilots 👋 </p>
 
 
@@ -13,12 +14,10 @@
 
 # <p align="center">Ready for take-off 🚀 ?</p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/eterima/">
-         <img alt="eka_the_epilot" src="https://github.com/eterima/eterima/blob/main/eka_.png?raw=true"
-         width=150" height="150"> </a> </p>
+<div align="center"> <a href="https://stardev.io/developers/eterima"><img align="center" alt="Check out eterima&apos;s profile on stardev.io" src="https://stardev.io/developers/eterima/badge/languages/global.svg" /></a> </div>
                                 
                                                                 
-# <p align="center"> Hit me up✌🏽! </p>
+# <p align="center"> <a href="https://www.linkedin.com/in/eterima/">Hit me up✌🏽!</a> </p>
 
  
 
@@ -39,4 +38,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
