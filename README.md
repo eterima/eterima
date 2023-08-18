@@ -18,6 +18,8 @@
                                 
                                                                 
 # <p align="center"> <a href="https://www.linkedin.com/in/eterima/">Hit me up✌🏽!</a> </p>
+# <p align="center"> <a href="https://www.linkedin.com/in/eterima/"> Or schedule a call ☎️!</a> </p>
+
 
  
 
