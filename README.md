@@ -14,7 +14,6 @@
 
 # <p align="center">Ready for take-off 🚀 ?</p>
 
-<div align="center"> <a href="https://stardev.io/developers/eterima"><img alt="Check out eterima's profile on stardev.io" src="https://stardev.io/developers/eterima/badge/languages/locality.svg" /></a> </div>
 
 [![Check out eterima's profile on stardev.io](https://stardev.io/developers/eterima/badge/languages/global.svg)](https://stardev.io/developers/eterima)
                                 
