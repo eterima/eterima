@@ -15,9 +15,7 @@
 # <p align="center">Ready for take-off 🚀 ?</p>
 
 
-[![Check out eterima's profile on stardev.io](https://stardev.io/developers/eterima/badge/languages/global.svg)](https://stardev.io/developers/eterima)
-                                
-                                                                
+[![Check out eterima's profile on stardev.io](https://stardev.io/developers/eterima/badge/languages/global.svg)](https://stardev.io/developers/eterima)                                                                
 # <p align="center"> <a href="https://www.linkedin.com/in/eterima/">Hit me up✌🏽!</a> </p>
 # <p align="center"> <a href="https://calendly.com/epilot-careers/coffee-eka"> Or schedule a call ☎️!</a> </p>
 
